@@ -42,7 +42,7 @@ class _SplashScreenState extends State<SplashScreen> {
               'Welcome to Furever Friends',
               style: TextStyle(
                 color: Colors.white,
-                fontSize: 28,
+                fontSize: 24,
                 fontWeight: FontWeight.bold,
               ),
             ),

@@ -5,6 +5,15 @@ allprojects {
     }
 }
 
+plugins {
+    
+    
+    // 3. 👇 Add the Firebase Google Services DECLARATION here 👇
+    id("com.google.gms.google-services") version "4.4.4" apply false
+}
+
+// ... rest of the file starts below (allprojects, subprojects, etc.)
+
 val newBuildDir: Directory =
     rootProject.layout.buildDirectory
         .dir("../../build")

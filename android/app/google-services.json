@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "537083231824",
+    "project_id": "fureverfriends-9c3b5",
+    "storage_bucket": "fureverfriends-9c3b5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537083231824:android:d868b80600abf747ba9b55",
+        "android_client_info": {
+          "package_name": "com.example.appdev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3JZPKu6eYzDO9x0i0jr5UX67Ir2IcINs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
